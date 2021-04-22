@@ -1,0 +1,15 @@
+{
+    "bot-token" : "BOT_TOKEN",
+    "command-aliases" : ["start-mc", "mc"],
+    "command-prefix" : ".",
+    "server-path" : "FULL_PATH",
+    "ram" : {
+        "min-ram" : "2048M",
+        "max-ram" : "3072M"
+    },
+    "valid-commands" : [ 
+        "start", "stop", "status", "list", "say", "help"
+    ],
+    "allowed-roles" : ["ROLE"],
+    "allowed-names" : ["NAME"]
+}

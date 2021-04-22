@@ -4,9 +4,6 @@
 
 ##### You need to specify the path to the already created minecraft server, and install all the modules needed for the script to run
 
-I've made this bot because I've searched for a way that my friends could start the minecraft server without me actually being at the pc,
-and I didn't find one good enough. **So i decided to make one**
-
 You can use the bot or upgrade it at your own will. I'd be happy if it helps you.
 It probably isn't the best and has a lot of bugs but it works :).
 

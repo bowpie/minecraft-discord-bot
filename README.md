@@ -1,12 +1,13 @@
-# Discord Bot for controlling a Minecraft Server
+# Discord Bot for a Minecraft Server
 
-##### You can command the minecraft server from the discord server, but only with the allowed commands you configured in config.json.
+> This bot allows you and your friends to command the minecraft server directly from your discord. You can configure the commands, roles and many more things inside `config.json`.
 
-##### You need to specify the path to the already created minecraft server, and install all the modules needed for the script to run
+### If you ever got tired of waiting for the host of the server to start it, this bot is the perfect solution, because if their PC is open, anyone on the discord group can start and close the minecraft server.
 
-You can use the bot or upgrade it at your own will. I'd be happy if it helps you.
-It probably isn't the best and has a lot of bugs but it works :).
+PS : Your antivirus may recognize this script as a threat because of the powershell command used to start the minecraft server.
 
+## License
 
-*Warning : This script may be recognized by your antivirus as a threat because it executes powershell commands( the java startup of the minecraft server)*
-*PS: The names in "allowed-names" must be lowercase in order to work and the "allowed-roles" are case-sensitive*
+---
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
